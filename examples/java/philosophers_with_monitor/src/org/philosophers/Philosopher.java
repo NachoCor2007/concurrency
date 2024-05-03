@@ -15,7 +15,7 @@ public class Philosopher {
 
     /**
      * This method simulates a philosopher eating
-     * The table will be locked over the invocation of the 'grabForks' and 'releaseForks'
+     * The table will be locked over the invocation of the 'grabForks' and 'releaseForks' methods
      * BUT NOT while actually eating, in this way several philosophers can be eating simultaneously
      */
     public void eat() throws InterruptedException {
