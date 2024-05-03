@@ -10,11 +10,10 @@
 7. [Concurrency Abstractions - Part 2](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/abstractions2.html)
 8. **Primer Parcial**
 9. [Non Blocking Algorithms](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/nonblocking.html)
-10. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/asynchronicity.html)
-11. ...
-12. ...
-13. [Actors Part1](classes/actors1.md)
-14. [Actors Part2](classes/actors2.md)
+10. [Actors Part1](classes/actors1.md)
+11. [Actors Part2](classes/actors2.md)
+12. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/asynchronicity.html)
+13. ...
 15. **Segundo Parcial**
 
 
@@ -24,11 +23,10 @@ Viernes de 14 a 17
 1. 8 Marzo
 2. 15 Marzo
 3. 22 Marzo
-4. 5 Abril
 5. 12 Abril
 6. 19 Abril
-7. 26 Abril (Primer Parcial)
-8. 3 Mayo
+7. 26 Abril
+8. 3 Mayo (Primer Parcial)
 9. 10 Mayo
 10. 17 Mayo
 11. 24 Mayo
