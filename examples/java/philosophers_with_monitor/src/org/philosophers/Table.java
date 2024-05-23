@@ -18,6 +18,7 @@ public class Table {
             wait();
         forks[leftFork] = true;
         forks[rightFork] = true;
+
     }
 
     /**
