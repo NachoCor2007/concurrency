@@ -2,6 +2,7 @@
 
 ## Classes
 
+
 1. [Introduction](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/introduction.html)
 3. [Introduction to Thread Programming](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/intro_java_rust.html)
 4. [Parallelism](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/parallel.html)
@@ -9,10 +10,11 @@
 6. [Concurrency Abstractions - Part 1](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/abstractions1.html)
 7. [Concurrency Abstractions - Part 2](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/abstractions2.html)
 8. **Primer Parcial**
-9. [Non Blocking Algorithms](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/nonblocking.html)
-10. [Actors Part1](classes/actors1.md)
-11. [Actors Part2](classes/actors2.md)
-12. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/asynchronicity.html)
+9. [Mutex Implementation](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/mutex-implementation.html)
+10. [Non Blocking Algorithms](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/nonblocking.html)
+11. [Actors Part1](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors1.md)
+12. [Actors Part2](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors2.md)
+13. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/asynchronicity.html)
 13. ...
 15. **Segundo Parcial**
 
