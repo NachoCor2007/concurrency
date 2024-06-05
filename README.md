@@ -12,8 +12,8 @@
 8. **Primer Parcial**
 9. [Mutex Implementation](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/mutex-implementation.html)
 10. [Non Blocking Algorithms](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/nonblocking.html)
-11. [Actors Part1](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors1.md)
-12. [Actors Part2](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors2.md)
+11. [Actors Part1](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors1.html)
+12. [Actors Part2](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors1.html)
 13. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/asynchronicity.html)
 13. ...
 15. **Segundo Parcial**
