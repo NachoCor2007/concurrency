@@ -14,9 +14,8 @@
 10. [Non Blocking Algorithms](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/nonblocking.html)
 11. [Actors Part1](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors1.html)
 12. [Actors Part2](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors1.html)
-13. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/asynchronicity.html)
-13. ...
-15. **Segundo Parcial**
+13. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/async.html)
+14. **Segundo Parcial**
 
 
 ### Calendario
