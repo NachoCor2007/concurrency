@@ -1,9 +1,12 @@
 package test;
 
+import java.util.concurrent.atomic.AtomicBoolean;
+import java.util.concurrent.atomic.AtomicInteger;
+
 import static test.ThreadUtils.*;
 
 public class Test {
-    boolean a = false, b = false; // <-- change to volatile
+    volatile boolean a = false, b = false; // <-- change to volatile
     int x = -1, y = -1;
 
     void test(int execution) {
@@ -27,5 +30,8 @@ public class Test {
     public static void main(String[] args) {
         for (var i = 0; i < 10_000; i++)
             new Test().test(i);
+
+        var v = new AtomicInteger(0);
+        v.compareAndSet(0, 1);
     }
 }
