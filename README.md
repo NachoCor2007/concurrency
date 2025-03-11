@@ -19,27 +19,17 @@
 
 
 ### Calendario
-Viernes de 14 a 17
+Martes de 16 a 19
 
-1. 8 Marzo
-2. 15 Marzo
-3. 22 Marzo
-5. 12 Abril
-6. 19 Abril
-7. 26 Abril
-8. 3 Mayo (Primer Parcial)
-9. 10 Mayo
-10. 17 Mayo
-11. 24 Mayo
-12. 31 Mayo
-13. 7 Junio
-14. 14 Junio (Segundo Parcial)
+1. 11 Marzo
+2. 18 Marzo
+3. 25 Marzo
 
 Finales: 28 Jun y  12 Julio
 
 ## Environment setup:
 
-- Recommended Intellij & RustRover
+- Recommended RustRove (Additionally Intellij)
 
 ## Bibliografía
 1. **Foundations of Multithreaded Parallel and Distributed Programming** by Gregory R. Andrews
